@@ -14,6 +14,6 @@ so the site will be optimized for search engines.  The following were updated:
 ![Website Screenshot](Develop\assets\images\Horiseonwebsite.PNG)
 
 ## Link to Website
-
+https://mjc01002.github.io/Challenge1/
 
 
